@@ -1,0 +1,17 @@
+.red-text {
+    color: red;
+    text-align: centre;
+}
+
+.bottom-text {
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.footer-text {
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    font-style: italic;
+}
